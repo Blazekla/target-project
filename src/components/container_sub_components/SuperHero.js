@@ -7,7 +7,10 @@ function SuperHero() {
         border: "2px solid black"
       }}
     >
-      SuperHero component content goes here....
+      SuperHero component content goes here.... Could be a hyperlink wrapper for
+      the component
+      {/* <div>First div within is for Image background</div>
+      <div>Second div is for the main Text</div> */}
     </div>
   );
 }
