@@ -1,6 +1,5 @@
 import React from "react";
 import "typeface-roboto";
-import Typography from "@material-ui/core/Typography";
 import Header from "./components/Header";
 import MainContainer from "./components/MainContainer";
 import Footer from "./components/Footer";
